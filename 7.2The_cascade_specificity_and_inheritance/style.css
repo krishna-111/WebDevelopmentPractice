@@ -1,0 +1,32 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+  
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+#outer-box{
+  border:10px solid violet;
+  
+
+}
+.inner-box{
+  background-color: red;
+}
+.white-text{
+  color:white;
+}
+.first-inner{
+  background-color: black;
+  border:10px dashed white;
+}
+.second-inner{
+  background-color: green;
+  border:10px dashed black;
+}
